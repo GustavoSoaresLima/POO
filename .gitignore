@@ -1,0 +1,8 @@
+**/output
+**/.yarn
+*.js
+*.lock
+*.json
+*.md
+*.cjs
+**/test.ts
